@@ -1,2 +1,2 @@
-# dog-breed-classifier
- CNN_dog_breed_Udacity_project
+# Dog breed Classifier -Udacity Project-
+using pytorch to craft CNN to predict dog breeds
